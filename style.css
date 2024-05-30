@@ -329,7 +329,7 @@ section {
     bottom: 2.5rem;
    }
 
-   .details-containers{
+   .details-container{
     padding: 1.5rem;
     flex: 1;
     background: white;
@@ -387,9 +387,35 @@ section {
     gap: 0.5rem;
  }
 
- article.icon{
+ article .icon{
     cursor:default;
  }
+
+ /* PROJECTS SECTION  */
+ #projects {
+    position: relative;
+  }
+  
+  .color-container {
+    border-color: rgb(163, 163, 163);
+    background: rgb(250, 250, 250);
+  }
+  
+  .project-img {
+    border-radius: 2rem;
+    width: 200PX;
+    height: 200PX;
+}
+  .project-title {
+    margin: 1rem;
+    color: black;
+  }
+  
+  .project-btn {
+    color: black;
+    border-color: rgb(163, 163, 163);
+  }
+
 
 
 
