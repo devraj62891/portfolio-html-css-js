@@ -472,7 +472,7 @@ section {
   /* My extra personal styling */
 
 .nav-links a:hover{
-  font-size: 1.6rem;
+  font-size: 1.56rem;
 }
 .menu-links a:hover{
   font-size: 1.6rem;
@@ -482,6 +482,9 @@ section {
   cursor: default;
 }
 
+html{
+  background-color: rgb(240, 247, 248);
+}
 
 
 
