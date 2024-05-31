@@ -394,7 +394,7 @@ section {
  /* PROJECTS SECTION  */
  #projects {
     position: relative;
-    padding-top: 8rem;
+    /* padding-top: 8rem; */
   }
   
   .color-container {
@@ -476,6 +476,10 @@ section {
 }
 .menu-links a:hover{
   font-size: 1.6rem;
+}
+
+.details-icon{
+  cursor: default;
 }
 
 
