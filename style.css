@@ -394,6 +394,7 @@ section {
  /* PROJECTS SECTION  */
  #projects {
     position: relative;
+    padding-top: 8rem;
   }
   
   .color-container {
@@ -464,6 +465,20 @@ section {
   footer p{
     text-align: center;
   }
+
+
+
+
+  /* My extra personal styling */
+
+.nav-links a:hover{
+  font-size: 1.6rem;
+}
+.menu-links a:hover{
+  font-size: 1.6rem;
+}
+
+
 
 
 
