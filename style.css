@@ -483,7 +483,10 @@ section {
 }
 
 html{
-  background-color: rgb(240, 247, 248);
+  background-color: #f0f7f8;
+}
+.menu-links{
+  background-color: #f0f7f8;
 }
 
 
